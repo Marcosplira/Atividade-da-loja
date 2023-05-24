@@ -1,0 +1,56 @@
+.logo {
+    background-color: rgb(206, 206, 206);
+    width: 20%;
+    margin-bottom: 10px;
+    float: left;
+    margin-right: 0.5%;
+    padding: 20px;
+}
+
+.nav {
+    margin-bottom: 10px;
+    background-color: rgb(206, 206, 206);
+    width: calc(79% - 80px);
+    float: right;
+    padding: 20px;
+}
+
+.banner {
+    background-color: lightskyblue;
+    clear: both;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.categoria {
+    width: 19%;
+    height: 100px;
+    float: left;
+    margin-right: 1%;
+    margin-bottom: 1%; 
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.home {
+    float: left;
+    margin-right: 30px;
+}
+
+.produtos {
+    float: left;
+    margin-right: 30px;
+}
+
+.quemsomos {
+    float: left;
+    margin-right: 30px;
+}
+
+.entrar {
+    float: right;
+}
+div{
+    border-radius: 10px;
+}
